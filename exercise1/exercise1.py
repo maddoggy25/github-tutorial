@@ -15,3 +15,5 @@ def print_art():
     print "        '._ '-=-' _.'"
     print "           '~---~'"
 
+def hi_fellow(input):
+    print "That's awesome! How is that random forest model going?"
